@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-03-differential-equations-spring-2010/f60d6e10937cc473ede997b139b2221b_YQ7HEE8-OfA.srt
+file: /media/courses/18-03-differential-equations-spring-2010/f60d6e10937cc473ede997b139b2221b_YQ7HEE8-OfA.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: f60d6e10-937c-c473-ede9-97b139b2221b

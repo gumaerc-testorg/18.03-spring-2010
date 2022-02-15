@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Mathlets
 uid: 1d675069-d04b-8fd7-6ec6-d817c829a8bf
 ---

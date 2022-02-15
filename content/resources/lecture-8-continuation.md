@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Continuation'
 uid: 0f4dd51a-5489-394b-cd10-c36529936712
 video_files:
   archive_url: http://www.archive.org/download/MIT18.03S06/mit-ocw-18.03-lec8-24feb2003-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-03-differential-equations-spring-2010/90b2d2d5f3885906820eef341853965b_MdzfsfBNJIw.vtt
+  video_captions_file: /courses/18-03-differential-equations-spring-2010/90b2d2d5f3885906820eef341853965b_MdzfsfBNJIw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MdzfsfBNJIw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-03-differential-equations-spring-2010/5db44909ea3c5bd2611fa3a0f5c8d886_MdzfsfBNJIw.pdf
+  video_transcript_file: /courses/18-03-differential-equations-spring-2010/5db44909ea3c5bd2611fa3a0f5c8d886_MdzfsfBNJIw.pdf
 video_metadata:
   youtube_id: MdzfsfBNJIw
 ---

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
 title: 18.03 Supplementary Notes
 uid: bbfa562f-508b-d8c3-7b5c-f9bf255d94d4

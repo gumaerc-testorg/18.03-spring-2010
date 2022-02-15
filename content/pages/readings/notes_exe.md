@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
 title: 18.03 Notes and Exercises
 uid: 57bad402-02cb-ea33-05ef-548784c0e8a9
