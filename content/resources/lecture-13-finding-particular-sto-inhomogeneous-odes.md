@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Finding Particular Solutions to Inhomogeneous ODEs'
 uid: 77f5ae05-9a48-dc41-27ac-0e70e0e8967d
 video_files:

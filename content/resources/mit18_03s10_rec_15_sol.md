@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 4b0e29d9-bfd2-45cf-a675-ee8f8ee1e3a2
 resourcetype: Document
 title: MIT18_03S10_rec_15_sol.pdf
 uid: 9acb3443-34c5-5e13-d375-218680afca96

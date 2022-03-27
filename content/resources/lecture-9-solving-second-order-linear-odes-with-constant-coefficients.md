@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Solving Second-order Linear ODE''s with Constant Coefficients'
 uid: 1f99cd5d-24cf-b821-2efe-f00d0949cd5e
 video_files:

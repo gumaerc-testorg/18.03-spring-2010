@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Relation Between Non-linear Systems and First-order ODEs'
 uid: 19a4ac14-2cb6-9fac-34c7-3ef5cb4ec80f
 video_files:

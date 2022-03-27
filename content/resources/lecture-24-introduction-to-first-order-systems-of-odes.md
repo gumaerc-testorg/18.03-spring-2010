@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ resource_index_text: <p><strong>Topics covered:</strong> Introduction to First-o
   Systems of ODEs; Solution by Elimination, Geometric Interpretation of a System</p><p><strong>Instructor/speaker:</strong>
   Prof. Arthur Mattuck</p>
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Introduction to First-order Systems of ODEs'
 uid: e75f6e0a-200d-450f-2102-9bdf1066ca42
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Euler''s Numerical Method for y''=f(x,y)'
 uid: 2b615fd4-e78c-9a06-ed2d-5c6d74bb8cda
 video_files:

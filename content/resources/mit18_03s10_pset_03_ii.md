@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26f5298a-cdde-cdcb-3039-98db02f085b8
 resourcetype: Document
 title: MIT18_03S10_pset_03_II.pdf
 uid: 93c66714-dae0-d922-03e4-9f8393c8be81

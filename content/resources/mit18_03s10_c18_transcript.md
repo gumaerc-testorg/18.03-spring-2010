@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 31ca35fc-ab40-f2e5-4441-76c14fd2ef05
 resourcetype: Document
 title: MIT18_03S10_c18_transcript.pdf
 uid: 90b82915-5449-8725-5424-e44d73222fb1

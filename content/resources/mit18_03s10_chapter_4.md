@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 18.03 Supplementary Notes
 parent_type: CourseSection
+parent_uid: bbfa562f-508b-d8c3-7b5c-f9bf255d94d4
 resourcetype: Document
 title: MIT18_03S10_chapter_4.pdf
 uid: 840c4c6c-7c93-f9c4-44e7-66dae31ace08

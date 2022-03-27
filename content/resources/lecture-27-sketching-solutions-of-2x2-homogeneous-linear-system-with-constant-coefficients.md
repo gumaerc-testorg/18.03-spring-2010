@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 27: Sketching Solutions of 2x2 Homogeneous Linear System with Constant
   Coefficients'
 uid: 8e5c33b5-ec35-e2d3-27b6-9a9579fc055a

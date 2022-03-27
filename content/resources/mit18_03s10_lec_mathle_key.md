@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 31ca35fc-ab40-f2e5-4441-76c14fd2ef05
 resourcetype: Document
 title: MIT18_03S10_lec_mathle_key.pdf
 uid: d82413a8-26f3-8ed5-6f10-5da631b89646

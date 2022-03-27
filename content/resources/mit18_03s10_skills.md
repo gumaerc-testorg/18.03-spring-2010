@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 667232fa-9b79-0531-b1ae-8fb8c7fcfbf2
 resourcetype: Document
 title: MIT18_03S10_skills.pdf
 uid: 48aee76d-0aaa-31bd-0958-0d108df6cc3c

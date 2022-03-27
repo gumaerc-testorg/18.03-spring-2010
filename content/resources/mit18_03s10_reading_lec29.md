@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
 resourcetype: Document
 title: MIT18_03S10_Reading_Lec29.pdf
 uid: 2f559943-51a6-5249-53ac-067bea36e80f

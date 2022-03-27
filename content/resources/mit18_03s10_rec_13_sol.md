@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 4b0e29d9-bfd2-45cf-a675-ee8f8ee1e3a2
 resourcetype: Document
 title: 'Fourier Series: Introduction (Solutions)'
 uid: 4161da51-f68f-551c-7c41-1e9733a88579
