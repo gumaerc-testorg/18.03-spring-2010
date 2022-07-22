@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -29,3 +31,4 @@ video_metadata:
 **Topics covered:** Introduction to First-order Systems of ODE's; Solution by Elimination, Geometric Interpretation of a System.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

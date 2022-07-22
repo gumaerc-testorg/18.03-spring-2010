@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -28,3 +30,4 @@ video_metadata:
 **Topics covered:** Sketching Solutions of 2x2 Homogeneous Linear System with Constant Coefficients
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+
