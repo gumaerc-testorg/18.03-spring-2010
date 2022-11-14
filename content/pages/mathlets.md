@@ -1,14 +1,18 @@
 ---
 content_type: page
+description: This section provides information on a set of dynamic computer applets
+  called "Mathlets."
 learning_resource_types: []
 ocw_type: CourseSection
 title: Mathlets
 uid: 1d675069-d04b-8fd7-6ec6-d817c829a8bf
+video_metadata:
+  youtube_id: null
 ---
 
 Ordinary Differential Equations Manipulatives ("Mathlets")
 
-This course employs a carefully developed set of dynamic computer applets called "Mathlets." They are used in lecture occasionally. Each problem set contains a problem based around one or another of them. ([PDF]({{< baseurl >}}/resources/mit18_03s10_lec_mathle_key))
+This course employs a carefully developed set of dynamic computer applets called "Mathlets." They are used in lecture occasionally. Each problem set contains a problem based around one or another of them. ({{% resource_link d82413a8-26f3-8ed5-6f10-5da631b89646 "PDF" %}})
 
 [The Mathlets Gallery](http://math.mit.edu/mathlets/mathlets/) can be found on the MIT Interactive Mathematics Site. Each Mathlet has an associated "Help" file which will open in a new window and provide user instructions.
 

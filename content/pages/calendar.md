@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This calendar section provides information on the course's lecture and
+  recitation sessions. There is also a list of skills and concepts and where they
+  are first introduced. Problem Set distribution and due dates are also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 90883aa4-2f25-3cb2-27a9-7ce8c9a8efb3
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions. There is also a list of skills and concepts and where they are first introduced. Problem Set (PS) distribution and due dates are also provided.

@@ -1,21 +1,25 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course and related
+  Mathlets.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
+video_metadata:
+  youtube_id: null
 ---
 
 Listed in the table below are reading assignments for each lecture session.
 
 \[EP\] refers to the course textbook: Edwards, C., and D. Penney. _Elementary Differential Equations with Boundary Value Problems_. 6th ed. Upper Saddle River, NJ: Prentice Hall, 2003. ISBN: 9780136006138
 
-\[SN\] refers to the "[18.03 Supplementary Notes]({{< baseurl >}}/pages/readings/supp_notes)" written by Prof. Miller.
+\[SN\] refers to the "{{% resource_link bbfa562f-508b-d8c3-7b5c-f9bf255d94d4 "18.03 Supplementary Notes" %}}" written by Prof. Miller.
 
-\[Notes\] refers to the "[18.03 Notes and Exercises]({{< baseurl >}}/pages/readings/notes_exe)" written by Prof. Mattuck.
+\[Notes\] refers to the "{{% resource_link 57bad402-02cb-ea33-05ef-548784c0e8a9 "18.03 Notes and Exercises" %}}" written by Prof. Mattuck.
 
-Also listed are links to specially written Java™ applets, or [Mathlets]({{< baseurl >}}/pages/mathlets), that were used in the lecture session.
+Also listed are links to specially written Java™ applets, or {{% resource_link 1d675069-d04b-8fd7-6ec6-d817c829a8bf "Mathlets" %}}, that were used in the lecture session.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -67,9 +71,9 @@ Direction fields, existence and uniqueness of solutions
 
 \[EP\]: 1.2 and 1.3  
   
-\[Notes\]: G.1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
+\[Notes\]: G.1 ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
   
-\[SN\]: 1 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_1))  
+\[SN\]: 1 ({{% resource_link eddb0941-9700-a7ef-0513-cc52118d86a8 "PDF" %}})  
   
 [Isoclines](http://math.mit.edu/mathlets/mathlets/isoclines/) Mathlet
 
@@ -87,7 +91,7 @@ Numerical methods
 {{< tdopen >}}
 \[EP\]: 6.1 and 6.2  
   
-\[Notes\]: G.2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
+\[Notes\]: G.2 ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
   
 [Euler's method](http://math.mit.edu/mathlets/mathlets/eulers-method/) Mathlet
 {{< tdclose >}}
@@ -103,7 +107,7 @@ Linear equations, models
 {{< tdopen >}}
 \[EP\]: 1.5  
   
-\[SN\]: 2 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_2))
+\[SN\]: 2 ({{% resource_link 7b8ba297-5972-2542-ebad-3c6e41a245c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +121,7 @@ Solution of linear equations, integrating factors
 {{< tdopen >}}
 \[EP\]: 1.5  
   
-\[SN\]: 3 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_3))
+\[SN\]: 3 ({{% resource_link f652cac0-033b-74e2-8193-79d65f7fbab8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,11 +133,11 @@ L5
 Complex numbers, roots of unity
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 5 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_5))  
+\[SN\]: 5 ({{% resource_link d370793e-7d18-b57d-1749-b8a587b97a49 "PDF" %}})  
   
-\[SN\]: 6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_6))  
+\[SN\]: 6 ({{% resource_link a3c8b903-c3e2-e374-27d8-860d1cbebb5e "PDF" %}})  
   
-\[Notes\]: C.1-3 ([PDF]({{< baseurl >}}/resources/mit18_03s10_c))
+\[Notes\]: C.1-3 ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,9 +149,9 @@ L6
 Complex exponentials; sinusoidal functions
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_4))  
+\[SN\]: 4 ({{% resource_link 840c4c6c-7c93-f9c4-44e7-66dae31ace08 "PDF" %}})  
   
-\[Notes\]: C.4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_c)) and IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
+\[Notes\]: C.4 ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}}) and IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
 [Complex roots](http://math.mit.edu/mathlets/mathlets/complex-roots/) Mathlet  
   
@@ -163,9 +167,9 @@ L7
 Linear system response to exponential and sinusoidal input; gain, phase lag
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_4))  
+\[SN\]: 4 ({{% resource_link 840c4c6c-7c93-f9c4-44e7-66dae31ace08 "PDF" %}})  
   
-\[Notes\]: IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
+\[Notes\]: IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
 [Trigonometric identity](http://math.mit.edu/mathlets/mathlets/trigonometric-id/) Mathlet
 {{< tdclose >}}
@@ -181,7 +185,7 @@ Autonomous equations; the phase line, stability
 {{< tdopen >}}
 \[EP\]: 1.7 and 7.1  
   
-\[SN\]: Appendix A ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_a))  
+\[SN\]: Appendix A ({{% resource_link 0e5a4e1f-230c-2b89-9327-62137263a6fb "PDF" %}})  
   
 [Phase lines](http://math.mit.edu/mathlets/mathlets/phase-lines/) Mathlet
 {{< tdclose >}}
@@ -195,7 +199,7 @@ L9
 Linear vs. nonlinear
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: Appendix C ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_c))
+\[SN\]: Appendix C ({{% resource_link a2edd38c-81ce-69a4-8a33-c23298a1cb37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +219,7 @@ Modes and the characteristic polynomial
 {{< tdopen >}}
 \[EP\]: 2.1, 2.2, and 2.3 up to "Polynomial Operators"  
   
-\[SN\]: 9 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_9))
+\[SN\]: 9 ({{% resource_link 0ce49045-c986-c007-12bb-6567259a5a41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,9 +247,9 @@ Exponential response formula, spring drive
 {{< tdopen >}}
 \[EP\]: 2.6, pp. 157-159  
   
-\[SN\]: 7 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_7)) (for beats)  
+\[SN\]: 7 ({{% resource_link 01735fd1-06c1-cd94-f161-b72f057153a3 "PDF" %}}) (for beats)  
   
-\[Notes\]: O.1 ([PDF]({{< baseurl >}}/resources/mit18_03s10_o))  
+\[Notes\]: O.1 ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311c522d "PDF" %}})  
   
 [Harmonic frequency response: Variable input frequency](http://math.mit.edu/mathlets/mathlets/harmonic-frequency-response-i/) Mathlet
 {{< tdclose >}}
@@ -261,9 +265,9 @@ Complex gain, dashpot drive
 {{< tdopen >}}
 \[EP\]: 2.6, pp. 165-167  
   
-\[SN\]: 10 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_10))  
+\[SN\]: 10 ({{% resource_link 912e5dac-9385-8a1b-19a5-a5fb383c9df1 "PDF" %}})  
   
-\[Notes\]: O.1, 2, 4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_o))  
+\[Notes\]: O.1, 2, 4 ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311c522d "PDF" %}})  
   
 [Amplitude and phase: Second order II](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order-ii/) Mathlet
 {{< tdclose >}}
@@ -281,9 +285,9 @@ Operators, undetermined coefficients, resonance
 
 \[EP\]: 2.5, pp. 144-153 and EP: 2.7  
   
-\[SN\]: 8 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_8))  
+\[SN\]: 8 ({{% resource_link 64fe6f61-6cf2-47e7-8a9d-35ee6b6fe235 "PDF" %}})  
   
-\[SN\]: 11 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_11))
+\[SN\]: 11 ({{% resource_link d9a7543a-f759-46fb-88fb-046501725e7c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -297,7 +301,7 @@ L16
 Frequency response
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 14 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_14))  
+\[SN\]: 14 ({{% resource_link 20740f69-2390-fdc6-b9dd-1cdc80332737 "PDF" %}})  
   
 [Amplitude and phase: Second order II](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order-ii/) Mathlet  
   
@@ -315,7 +319,7 @@ L17
 LTI systems, superposition, RLC circuits.
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: Appendix B ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_b))  
+\[SN\]: Appendix B ({{% resource_link 63b26053-bec6-4e7c-32b9-3900b15d7fad "PDF" %}})  
   
 [Series RLC circuit](http://math.mit.edu/mathlets/mathlets/series-rlc-circuit/) Mathlet
 {{< tdclose >}}
@@ -329,11 +333,11 @@ L18
 Engineering applications
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 12 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_12))  
+\[SN\]: 12 ({{% resource_link 76ddf543-943f-1265-6e1d-655d8119e5ad "PDF" %}})  
   
-\[SN\]: 13 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_13))  
+\[SN\]: 13 ({{% resource_link d48ecf20-76cc-7228-8ff8-d35c859d7551 "PDF" %}})  
   
-\[Notes\]: O.3 ([PDF]({{< baseurl >}}/resources/mit18_03s10_o))
+\[Notes\]: O.3 ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311c522d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,7 +357,7 @@ Fourier series
 {{< tdopen >}}
 \[EP\]: 8.1  
   
-\[SN\]: 16 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_16))  
+\[SN\]: 16 ({{% resource_link fa9916e7-5e10-877a-78ff-cef6464f204d "PDF" %}})  
   
 [Fourier coefficients](http://math.mit.edu/mathlets/mathlets/fourier-coefficients/) Mathlet
 {{< tdclose >}}
@@ -393,7 +397,7 @@ L23
 Step function and delta function
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 17 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_17))
+\[SN\]: 17 ({{% resource_link 0b63042e-3c89-21f7-f61b-1a467579d0eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -405,9 +409,9 @@ L24
 Step response, impulse response
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 18 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_18))  
+\[SN\]: 18 ({{% resource_link ee3f6f15-8b84-c526-906b-7b1c8e119818 "PDF" %}})  
   
-\[Notes\]: IR (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))
+\[Notes\]: IR ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +423,7 @@ L25
 Convolution
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 18 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_18))  
+\[SN\]: 18 ({{% resource_link ee3f6f15-8b84-c526-906b-7b1c8e119818 "PDF" %}})  
   
 [Convolution: Accumulation](http://math.mit.edu/mathlets/mathlets/convolution-accumulation/) Mathlet  
   
@@ -449,7 +453,7 @@ Application to ODEs
 {{< tdopen >}}
 \[EP\]: 4.2 and 4.3  
   
-\[SN\]: 20 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_20))  
+\[SN\]: 20 ({{% resource_link e6c72a0f-2fc8-201a-f63a-3e63c065c768 "PDF" %}})  
   
 \[Notes\]: H
 {{< tdclose >}}
@@ -465,7 +469,7 @@ Second order equations; completing the squares
 {{< tdopen >}}
 \[EP\]: 4.5 and 4.6  
   
-\[SN\]: 20 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_20))
+\[SN\]: 20 ({{% resource_link e6c72a0f-2fc8-201a-f63a-3e63c065c768 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -479,11 +483,11 @@ The pole diagram
 {{< tdopen >}}
 \[EP\]: 4.4  
   
-\[SN\]: 22 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_22))  
+\[SN\]: 22 ({{% resource_link 5ed2dda7-b350-73a2-b031-4b60e51d65fd "PDF" %}})  
   
-\[SN\]: 23 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_23))  
+\[SN\]: 23 ({{% resource_link 3662ccaf-aaa0-b65a-d11f-d06204c84892 "PDF" %}})  
   
-18.03 Difference Equations and Z-Transforms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_reading_lec29))(Courtesy of Jeremy Orloff.)  
+18.03 Difference Equations and Z-Transforms ({{% resource_link 2f559943-51a6-5249-53ac-067bea36e80f "PDF" %}})(Courtesy of Jeremy Orloff.)  
   
 [Amplitude response: Pole diagram](http://math.mit.edu/mathlets/mathlets/amplitude-response-pole-diagram/) Mathlet  
   
@@ -519,9 +523,9 @@ Linear systems and matrices
 {{< tdopen >}}
 \[EP\]: 5.1-5.3  
   
-\[SN\]: 25 ([PDF]({{< baseurl >}}/resources/mit18_031s10_chapter_25))  
+\[SN\]: 25 ({{% resource_link 00609944-4676-8de7-61f5-b2e9d681c6ec "PDF" %}})  
   
-\[Notes\]: LS.1 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ls1))
+\[Notes\]: LS.1 ({{% resource_link 791981c1-011f-03da-368f-8e21f8a3573d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -535,7 +539,7 @@ Eigenvalues, eigenvectors
 {{< tdopen >}}
 \[EP\]: 5.4  
   
-\[Notes\]: LS.2 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ls2))  
+\[Notes\]: LS.2 ({{% resource_link c1ae7e6e-3eca-0d08-2ad9-7a64591890e9 "PDF" %}})  
   
 [Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet  
   
@@ -553,7 +557,7 @@ Complex or repeated eigenvalues
 {{< tdopen >}}
 \[EP\]: 5.4  
   
-\[Notes\]: LS.3 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ls3))  
+\[Notes\]: LS.3 ({{% resource_link 879f3d1f-3486-2ee3-3ca5-7018f3a912c3 "PDF" %}})  
   
 [Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet
 {{< tdclose >}}
@@ -567,7 +571,7 @@ L35
 Qualitative behavior of linear systems; phase plane
 {{< tdclose >}}
 {{< tdopen >}}
-\[SN\]: 26 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_26))  
+\[SN\]: 26 ({{% resource_link 3de8a404-f126-86e1-6bfc-b12076e9b406 "PDF" %}})  
   
 [Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet  
   
@@ -585,7 +589,7 @@ Normal modes and the matrix exponential
 {{< tdopen >}}
 \[EP\]: 5.7  
   
-\[Notes\]: LS.6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ls6))
+\[Notes\]: LS.6 ({{% resource_link bb827791-4989-395a-c2b6-b012bb80426d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -599,7 +603,7 @@ Nonlinear systems
 {{< tdopen >}}
 \[EP\]: 7.2 and 7.3  
   
-\[Notes\]: LS.6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ls6))
+\[Notes\]: LS.6 ({{% resource_link bb827791-4989-395a-c2b6-b012bb80426d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -613,11 +617,11 @@ Linearization near equilibria; the nonlinear pendulum
 {{< tdopen >}}
 \[EP\]: 7.4 and 7.5  
   
-\[Notes\]: GS (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_gs))  
+\[Notes\]: GS ({{% resource_link f0808915-68d0-1bc6-0ff1-8f15b77f8e8c "PDF" %}})  
   
-\[SN\]: Appendix B ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_b))  
+\[SN\]: Appendix B ({{% resource_link 63b26053-bec6-4e7c-32b9-3900b15d7fad "PDF" %}})  
   
-\[SN\]: Appendix C ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_c))
+\[SN\]: Appendix C ({{% resource_link a2edd38c-81ce-69a4-8a33-c23298a1cb37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
