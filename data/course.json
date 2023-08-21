@@ -27,7 +27,7 @@
     "website": "18-03-differential-equations-spring-2010"
   },
   "course_title": "Differential Equations",
-  "course_description": "Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.\n",
+  "course_description": "Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.",
   "department_numbers": [
     "18"
   ],
@@ -43,6 +43,6 @@
     "Lecture Notes",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "4640791d-92a6-49a2-b036-25b30353a39a",
+  "site_uid": "8727bd33-c3cc-4fca-aee7-87a18051778a",
   "title": "Course Metadata"
 }
