@@ -1,11 +1,15 @@
 ---
 content_type: video_gallery
+description: This section provides video lectures including transcripts from the Spring
+  2003 version of the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
 title: Video Lectures
 uid: 15553052-0081-5ae8-57fb-572ef6d294a3
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - cbdd5cf9-e23d-9ff1-98c7-c4aa1c1375c7
@@ -43,7 +47,7 @@ videos:
   website: 18-03-differential-equations-spring-2010
 ---
 
-These video lectures of Professor Arthur Mattuck teaching 18.03 were recorded live in the Spring of 2003 and do not correspond precisely to the lectures taught in the Spring of 2010. This table ([PDF](/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/MIT18_03S10_vlec_table.pdf)) provides a correlation between the video and the lectures in the 2010 version of the course.
+These video lectures of Professor Arthur Mattuck teaching 18.03 were recorded live in the Spring of 2003 and do not correspond precisely to the lectures taught in the Spring of 2010. This table ({{% resource_link a3a05f3b-d3a4-70c4-858c-dfb46f7d4963 "PDF" %}}) provides a correlation between the video and the lectures in the 2010 version of the course.
 
 The videotaping was made possible by [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/darbeloff/).
 
