@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to exponential and sinusoidal
   input signals.
 file: /courses/18-03-differential-equations-spring-2010/0286ae56051ba9472480b5e758220970_MIT18_03S10_rec_09_sol.pdf
+file_size: 153826
 file_type: application/pdf
 learning_resource_types:
 - Recitations

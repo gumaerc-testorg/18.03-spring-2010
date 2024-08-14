@@ -2,6 +2,7 @@
 content_type: resource
 description: "This resource contains information related to \tlinear phase portraits."
 file: /courses/18-03-differential-equations-spring-2010/1ee0e09c595873a38c94b6bb4a407be7_MIT18_03S10_rec_23_sol.pdf
+file_size: 73945
 file_type: application/pdf
 learning_resource_types:
 - Recitations

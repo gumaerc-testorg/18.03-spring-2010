@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/18-03-differential-equations-spring-2010/9acb344334c55e13d375218680afca96_MIT18_03S10_rec_15_sol.pdf
+file_size: 154760
 file_type: application/pdf
 learning_resource_types:
 - Recitations

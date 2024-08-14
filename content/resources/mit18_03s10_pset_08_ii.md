@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problem set 8.
 file: /courses/18-03-differential-equations-spring-2010/bf70753dade8fd1e02d0cd0f8cd08958_MIT18_03S10_pset_08_II.pdf
+file_size: 89741
 file_type: application/pdf
 learning_resource_types:
 - Assignments

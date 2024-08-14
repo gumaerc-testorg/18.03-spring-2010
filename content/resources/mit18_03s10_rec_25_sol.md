@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to autonomous systems.
 file: /courses/18-03-differential-equations-spring-2010/7d586320bca1f84079b6f49ac3a594c0_MIT18_03S10_rec_25_sol.pdf
+file_size: 160232
 file_type: application/pdf
 learning_resource_types:
 - Recitations
