@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03-differential-equations-spring-2010/a3a05f3bd3a470c4858cdfb46f7d4963_MIT18_03S10_vlec_table.pdf
+file_size: 27855
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

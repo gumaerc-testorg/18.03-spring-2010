@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to first order systems and
   second order equations. '
 file: /courses/18-03-differential-equations-spring-2010/a8a6c0bc720b0af296515afa2dd5ca60_MIT18_031S10_chapter_24.pdf
+file_size: 101810
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

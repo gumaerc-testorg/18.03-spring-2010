@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to frequency response.
 file: /courses/18-03-differential-equations-spring-2010/76eed86347e066790834397e826c0b60_MIT18_03S10_rec_11_sol.pdf
+file_size: 179328
 file_type: application/pdf
 learning_resource_types:
 - Recitations

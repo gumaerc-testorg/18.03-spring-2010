@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to wronskian.
 file: /courses/18-03-differential-equations-spring-2010/b06d6e91e362964ec92c9027dbbc28a9_MIT18_03S10_chapter_15.pdf
+file_size: 113174
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

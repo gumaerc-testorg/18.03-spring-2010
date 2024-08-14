@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to the pole diagram and the
   laplace transform.
 file: /courses/18-03-differential-equations-spring-2010/0ce2a4185fa72f5237d1e82ce715d0fe_MIT18_031S10_chapter_20.pdf
+file_size: 127094
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
