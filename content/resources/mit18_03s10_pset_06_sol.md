@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to problem set 6. '
 file: /courses/18-03-differential-equations-spring-2010/6d8059d743fb1380c1d54f6027c6b579_MIT18_03S10_pset_06_sol.pdf
+file_size: 191100
 file_type: application/pdf
 learning_resource_types:
 - Assignments

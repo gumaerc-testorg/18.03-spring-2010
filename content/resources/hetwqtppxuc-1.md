@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03-differential-equations-spring-2010/e3fe10ac32bc7c5a166ddb8df3254ae0_hEtWqTPPXuc.pdf
+file_size: 41716
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

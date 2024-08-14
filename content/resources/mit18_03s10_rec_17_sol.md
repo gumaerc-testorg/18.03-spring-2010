@@ -2,6 +2,7 @@
 content_type: resource
 description: "This resource contains information related to \tconvolution."
 file: /courses/18-03-differential-equations-spring-2010/c3962d2185319f637241208f7bc84255_MIT18_03S10_rec_17_sol.pdf
+file_size: 161803
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to step and delta functions,
   and step and delta responses
 file: /courses/18-03-differential-equations-spring-2010/eb154acfa26803eefd79b76ce079cf02_MIT18_03S10_rec_16_sol.pdf
+file_size: 148595
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to problems for a group activity on Fourier series and periodic
   functions.
 file: /courses/18-03-differential-equations-spring-2010/4161da51f68f551c7c411e9733a88579_MIT18_03S10_rec_13_sol.pdf
+file_size: 183215
 file_type: application/pdf
 learning_resource_types:
 - Recitations
