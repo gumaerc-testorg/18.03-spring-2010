@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to resonance and the exponential
   shift law .
-file: /courses/18-03-differential-equations-spring-2010/76ddf543943f12656e1d655d8119e5ad_MIT18_03S10_chapter_12.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/76ddf543943f12656e1d655d8119e5ad_MIT18_03S10_chapter_12.pdf
 file_size: 123226
 file_type: application/pdf
 learning_resource_types: []

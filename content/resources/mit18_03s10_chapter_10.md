@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to operators and the exponential
   response formula. '
-file: /courses/18-03-differential-equations-spring-2010/912e5dac93858a1b19a5a5fb383c9df1_MIT18_03S10_chapter_10.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/912e5dac93858a1b19a5a5fb383c9df1_MIT18_03S10_chapter_10.pdf
 file_size: 136348
 file_type: application/pdf
 learning_resource_types: []

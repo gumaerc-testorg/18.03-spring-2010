@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to phase portraits and eigenvectors.
-file: /courses/18-03-differential-equations-spring-2010/3de8a404f12686e16bfcb12076e9b406_MIT18_03S10_chapter_26.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/3de8a404f12686e16bfcb12076e9b406_MIT18_03S10_chapter_26.pdf
 file_size: 309866
 file_type: application/pdf
 learning_resource_types: []
