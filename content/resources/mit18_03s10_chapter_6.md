@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to complex exponential. '
-file: /courses/18-03-differential-equations-spring-2010/a3c8b903c3e2e37427d8860d1cbebb5e_MIT18_03S10_chapter_6.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/a3c8b903c3e2e37427d8860d1cbebb5e_MIT18_03S10_chapter_6.pdf
 file_size: 135260
 file_type: application/pdf
 learning_resource_types: []

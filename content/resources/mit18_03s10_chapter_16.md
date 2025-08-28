@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to more on fourier series
-file: /courses/18-03-differential-equations-spring-2010/fa9916e75e10877a78ffcef6464f204d_MIT18_03S10_chapter_16.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/fa9916e75e10877a78ffcef6464f204d_MIT18_03S10_chapter_16.pdf
 file_size: 213830
 file_type: application/pdf
 learning_resource_types: []
