@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03-differential-equations-spring-2010/bb3d12d8376051ec8a85f61d99461d8c_zreI4HllD80.vtt
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/bb3d12d8376051ec8a85f61d99461d8c_zreI4HllD80.vtt
 file_size: 55844
 file_type: application/x-subrip
 learning_resource_types: []

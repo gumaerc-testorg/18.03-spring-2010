@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to amplitude response and
   the pole diagram. '
-file: /courses/18-03-differential-equations-spring-2010/3662ccafaaa0b65ad11fd06204c84892_MIT18_03S10_chapter_23.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/3662ccafaaa0b65ad11fd06204c84892_MIT18_03S10_chapter_23.pdf
 file_size: 192737
 file_type: application/pdf
 learning_resource_types: []

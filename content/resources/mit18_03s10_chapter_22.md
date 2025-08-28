@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to laplace transform technique
   and the pole diagram.
-file: /courses/18-03-differential-equations-spring-2010/5ed2dda7b35073a2b0314b60e51d65fd_MIT18_03S10_chapter_22.pdf
+file: /ol-ocw-studio-app/courses/18-03-differential-equations-spring-2010/5ed2dda7b35073a2b0314b60e51d65fd_MIT18_03S10_chapter_22.pdf
 file_size: 141151
 file_type: application/pdf
 learning_resource_types: []
