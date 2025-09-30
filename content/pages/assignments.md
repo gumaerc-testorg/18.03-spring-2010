@@ -48,7 +48,7 @@ SOLUTIONS
 
 Problem set 1 ({{% resource_link ca6cfb45-5bee-70fb-a44d-246c0ee22936 "PDF" %}})
 
-Related Mathlet: [Isoclines](http://math.mit.edu/mathlets/mathlets/isoclines/)
+Related Mathlet: {{% resource_link "1c2fe04d-abd9-4a72-9a73-1b041d01b716" "Isoclines" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ Problem set 1: Part II solutions ({{% resource_link ae29d457-a4b5-ac5b-b350-dd3a
 
 Problem set 2 ({{% resource_link f6f9a502-e444-bb00-2f9e-64e090f4b8ad "PDF" %}})
 
-Related Mathlet: [Complex exponential](http://math.mit.edu/mathlets/mathlets/complex-exponential/)
+Related Mathlet: {{% resource_link "c43cb9ce-d6f3-4ded-9e12-a60ecac7176e" "Complex exponential" %}}
 
 
 {{< tdclose >}}
@@ -84,11 +84,11 @@ Problem set 2: Part II solutions ({{% resource_link 65aed74e-3d0f-a692-8d8f-04ec
 
 Problem set 3: First half ({{% resource_link 7adb0902-ea7d-2511-6905-30514ef57ad5 "PDF" %}})
 
-Related Mathlet: [Phase lines](http://math.mit.edu/mathlets/mathlets/phase-lines/)
+Related Mathlet: {{% resource_link "94bdbaf4-9043-40fb-971d-9a6b483ab0d9" "Phase lines" %}}
 
 Problem set 3: Second Half ({{% resource_link 93c66714-dae0-d922-03e4-9f8393c8be81 "PDF" %}})
 
-Related Mathlet: [Damped vibrations](http://math.mit.edu/mathlets/mathlets/damped-vibrations/)
+Related Mathlet: {{% resource_link "58b55254-282a-44c0-9fdf-4ef7fafb9409" "Damped vibrations" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +106,7 @@ Problem set 3: Part II solutions ({{% resource_link c90f9302-014d-8285-df35-efec
 
 Problem set 4 ({{% resource_link 268ebe34-4c04-b758-58e2-69130be407de "PDF" %}})
 
-Related Mathlets: [Forced damped vibrations](http://math.mit.edu/mathlets/mathlets/forced-damped-vibration/), [Amplitude and phase: Second order I](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order/)
+Related Mathlets: {{% resource_link "bf430649-5ba9-4b61-a73c-f81da9d238a6" "Forced damped vibrations" %}}, {{% resource_link "d6a81d73-9459-4355-9a8a-d1ac95cc582e" "Amplitude and phase: Second order I" %}}
 
 
 {{< tdclose >}}
@@ -124,11 +124,11 @@ Problem set 4: Part II solutions ({{% resource_link 1f814b2a-e2b3-fe9a-b45e-5b09
 
 Problem set 5: First half ({{% resource_link f05baf64-aec5-3622-f953-72fd8c607af6 "PDF" %}})
 
-Related Mathlet: [Series RLC circuit](http://math.mit.edu/mathlets/mathlets/series-rlc-circuit/)
+Related Mathlet: {{% resource_link "2ed2c7c5-ef18-4309-af56-16fd3c1697a1" "Series RLC circuit" %}}
 
 Problem set 5: Second half ({{% resource_link 36cb2f01-0ad6-b3a7-08b5-d7b0fbd91d41 "PDF" %}})
 
-Related Mathlet: [Fourier coefficients](http://math.mit.edu/mathlets/mathlets/fourier-coefficients/)
+Related Mathlet: {{% resource_link "80c36ff5-bff1-421f-a2e9-7c70a450a082" "Fourier coefficients" %}}
 
 
 {{< tdclose >}}
@@ -170,11 +170,11 @@ Problem set 7: Part II solutions ({{% resource_link 968845c6-0a33-21d9-bbb0-1a1a
 
 Problem set 8: First half ({{% resource_link 5faed532-e939-98cc-80d4-546fcf7fac4e "PDF" %}})
 
-Related Mathlet: [Amplitude response: Pole diagram](http://math.mit.edu/mathlets/mathlets/amplitude-response-pole-diagram/)
+Related Mathlet: {{% resource_link "0a137471-516e-4425-9f4b-94569854c02b" "Amplitude response: Pole diagram" %}}
 
 Problem set 8: Second half ({{% resource_link bf70753d-ade8-fd1e-02d0-cd0f8cd08958 "PDF" %}})
 
-Related Mathlet: [Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/)
+Related Mathlet: {{% resource_link "9915f752-86c8-452b-a17c-63e9402dc8eb" "Linear phase portrait: Matrix entry" %}}
 
 
 {{< tdclose >}}
@@ -192,7 +192,7 @@ Problem set 8: Part II solutions ({{% resource_link d0b45352-fb4c-9a48-54ae-ce72
 
 Problem set 9 ({{% resource_link 8eebccc3-a152-8cd1-ed62-c0bd558c79d4 "PDF" %}})
 
-Related Mathlet: [Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/)
+Related Mathlet: {{% resource_link "9915f752-86c8-452b-a17c-63e9402dc8eb" "Linear phase portrait: Matrix entry" %}}
 
 
 {{< tdclose >}}
