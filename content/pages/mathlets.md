@@ -14,8 +14,8 @@ Ordinary Differential Equations Manipulatives ("Mathlets")
 
 This course employs a carefully developed set of dynamic computer applets called "Mathlets." They are used in lecture occasionally. Each problem set contains a problem based around one or another of them. ({{% resource_link d82413a8-26f3-8ed5-6f10-5da631b89646 "PDF" %}})
 
-[The Mathlets Gallery](http://math.mit.edu/mathlets/mathlets/) can be found on the MIT Interactive Mathematics Site. Each Mathlet has an associated "Help" file which will open in a new window and provide user instructions.
+{{% resource_link "bd87b38a-d52f-4a47-afd7-f17950ff4985" "The Mathlets Gallery" %}} can be found on the MIT Interactive Mathematics Site. Each Mathlet has an associated "Help" file which will open in a new window and provide user instructions.
 
-Funding for the development of the Mathlets was provided by a grant from the [The d'Arbeloff Fund](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) for Excellence in MIT Education as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
+Funding for the development of the Mathlets was provided by a grant from the {{% resource_link "4b85b3ad-f08c-416a-8f49-25f919696776" "The d'Arbeloff Fund" %}} for Excellence in MIT Education as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
 
-Watch a [video](http://mathlets.org/training/introduction/) about the story behind the development of the Mathlets.
+Watch a {{% resource_link "8a6868fb-d891-48b2-9bc3-d649b599561d" "video" %}} about the story behind the development of the Mathlets.
